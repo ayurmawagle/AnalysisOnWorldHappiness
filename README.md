@@ -2,6 +2,9 @@
 
 World Happiness Repository contains a comprehensive analysis of the World Happiness Report 2024 using Microsoft Power BI. The data for this project was sourced from the World Happiness Report 2024, published by the Wellbeing Research Centre at the University of Oxford. 
 
+![WhatsApp Image 2024-10-03 at 6 14 14 PM](https://github.com/user-attachments/assets/d1fff41a-8a0f-47e0-9068-7e67d959f709)
+
+
 ## Data Preparation, Cleaning and Transformation:
 1. Imported the data into Power Query Editor.
 2. Removed unnecessary columns such as upper whisker and lower whisker of happiness score, dystopia/residual, and positive and negative affect.
