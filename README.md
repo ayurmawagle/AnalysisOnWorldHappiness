@@ -8,7 +8,7 @@ World Happiness Repository contains a comprehensive analysis of the World Happin
 ## Data Preparation, Cleaning and Transformation:
 1. Imported the data into Power Query Editor.
 2. Removed unnecessary columns such as upper whisker and lower whisker of happiness score, dystopia/residual, and positive and negative affect.
-3. Removed duplicate entries and missing values.
+3. Removed duplicate entries and missing values. 
 4. Renamed columns for clarity (Eg: "Ladder score" to "Happiness Score")
 5. Checked the data types for each column and their column profile to check distribution and errors.
 6. Created a calculated column for categorising countries based on happiness score where;
